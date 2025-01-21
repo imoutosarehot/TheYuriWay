@@ -1,3 +1,5 @@
+[Back To Main Page](https://imoutosarehot.github.io/TheStockingWay/)
+
 # Frequently Asked Questions 
 
 Frequently asked questions about learning Japanese answered in an efficient manner.
