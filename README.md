@@ -6,5 +6,4 @@ Don't know how learning languages works? Read my "Language Learning Theory" guid
 
 If you are a beginner, please refer to the 30 Day Guide and FAQ
 
-If you are not a beginner, Please refer to the "Learn Japanese With Yuri".
-
+If you are not a beginner, Please refer to the "Learn Japanese With Yuri"
