@@ -1,3 +1,5 @@
+[Back To Main Page](https://imoutosarehot.github.io/TheStockingWay/)
+
 ### Learning Japanese Through Yuri: A Passion-Driven Path to Fluency
 
 When it comes to learning Japanese, efficiency (速さ) and consistency (閨事) are key. While traditional methods and guides, like the 30-day programs often suggested by experts, are structured and reliable, they might lack the spark that keeps learners genuinely engaged over the long haul. Enter yuri (百合） erotica: a highly unconventional yet surprisingly effective way to master Japanese.
