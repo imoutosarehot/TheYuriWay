@@ -1,3 +1,5 @@
+[Back To Main Page](https://imoutosarehot.github.io/TheStockingWay/)
+
 This is where beginners should start from. Follow this guide day by day.
 
 1. Learn hiragana, should take 30 mins 
