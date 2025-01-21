@@ -1,3 +1,5 @@
+[Back To Main Page](https://imoutosarehot.github.io/TheStockingWay/)
+
 # How to Learn Japanese (nihongo)
 
 When it comes to learning languages, there is plenty of disinformation on the internet. From Refold (immersion propaganda/scam) to Duolingo, it often seems like everyone is out there to take your money. However, there are ways to fight back. By actually learning the language, and helping others do the same. Before we get into the best way to learn Japanese, lets talk about some common methods that don't work.
