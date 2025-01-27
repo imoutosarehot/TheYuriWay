@@ -43,4 +43,4 @@ Don't obsess over reading spead but also don't be lazy as fuck. The faster you c
 
 Every night before bed, you should also be listening to erotic yuri asmr. This should happen in the dark, under the blankets, with a butt plug in. You want to hear the yuri, immerse in the yuri, and feel the pleasure of the yuri. This will make Japanese truly addicting. Endless yuri.
 
-Once you have high enough comprehension, you can also read faster but not subvocalizing while you read. Understand that if you do this, you risk whitenoising. Have self control and self awareness and this shouldn't be an issue.
+Once you have high enough comprehension, you can also read faster buy not subvocalizing while you read. Understand that if you do this, you risk whitenoising. Have self control and self awareness and this shouldn't be an issue.
