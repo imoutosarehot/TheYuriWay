@@ -38,3 +38,7 @@ honestly not many good resources for manga...
 - [TMW Audiobook Collection](https://core6000.neocities.org/audio/) (there are some yuri works, like adachi to shimamura)
 - [ASMR.one](https://asmr.one/works?keyword=%24tag%3AYuri%20%2F%20Girls%20Love%24) (highly recommended because of yuri)
 - Podcasts, from anywhere
+
+### Other
+- [Anki Haptics](https://ankiweb.net/shared/info/247550864)
+	- This is vital for making Anki a better experience.
