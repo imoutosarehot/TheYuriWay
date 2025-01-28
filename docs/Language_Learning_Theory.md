@@ -17,7 +17,7 @@ Refold is the grandchild of AJATT and is mostly just the same thing but watered-
 
 ### DJT
 
-Do NOT join DJT under ANY circumstances. DJT is a CESSPOOL of RACISM and HOMOPHOBIA and whatever. ABSOULUTELY NEVER DO NOT LOOK IN THE "otaku artwork" channel. 
+Do NOT join DJT under ANY circumstances. DJT is a CESSPOOL of RACISM and HOMOPHOBIA and whatever. ABSOULUTELY NEVER DO NOT LOOK IN THE "otaku artwork" channel. djt are hackers and they will doxx and contact your school. DJT do NOT welcome women (which means NO YURI) and you wiull NOT become fluent in anything other than stupid fucking メスガキ visual novels (not inherently bad but most arent yuri) and they WILL manipulate you into using "4chan" (english website, not immersion OR yuri)
 
 ### If all these learning methods are shit, how am I supposed to learn Japanese? I want to watch anime (JAV) without subtitles!
 
