@@ -14,6 +14,6 @@ Also read:
 - [Finding Yuri](Finding_Yuri.md)
 - [Resources](Resources.md)
 
-Discord: https://discord.gg/xd2ZVs88WE
+Discord: [https://discord.gg/xd2ZVs88WE](https://discord.gg/xd2ZVs88WE)
 
 Thanks vinges for making the website not shit
