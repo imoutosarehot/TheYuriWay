@@ -1,4 +1,4 @@
-# The Stocking Way
+# The Yuri Way
 
 If you are looking to learn japanese, you have come to the right place.
 
