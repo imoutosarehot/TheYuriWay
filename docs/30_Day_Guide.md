@@ -4,7 +4,7 @@ This is where beginners should start from. Follow this guide day by day.
 
 1. Learn hiragana, should take 30 mins 
 2. Kaishi + 100 hours of imabi
-3. Kaishi + ask volt about how to learn japanese in beg gen
+3. Kaishi + ask volt about how to learn japanese in beg gen (update: as volt is now banned, r/learnjapanese is a good second option, though less efficient)
 4. Kaishi + start reading ningen sikkaku (best beginner novel)
 5. Kaishi  + finish ningen sikkaku
 6. Kaishi + 10 hours immersion
