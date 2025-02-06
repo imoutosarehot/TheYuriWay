@@ -47,10 +47,10 @@ Also, do remember my top tier yuri technique, which is to convince yourself that
 	- villainess yuri sloppa (2% harder cause fantasy)
 ### Once LN are easy
 - vn
-	- エヴァーメイデン (vn)
+	- エヴァーメイデン
 - novels 
-	- 花物語 (novel, not the anime one)
-	- 乙女の港 (novel)
+	- 花物語 (not the anime one)
+	- 乙女の港
 	- 濡れた心
 	- 生のみ生のままで
 	- 同志少女よ、敵を撃て
