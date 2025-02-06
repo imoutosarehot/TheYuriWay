@@ -35,7 +35,7 @@ I mine words from wherever I feel like mining from. Especially in TMW there is s
 
 I also mined all kanji not in my kanji grid from the quizzmaster kanken deck (trying to stick to words used in the example sentences, but also other words if there were no good options) because I wanted to, and I already had most kanken kanji mined anyways. Words are words. 
 
-### [[Anki]] 
+### Anki
 
 I like to do my reviews on my phone in the morning, either in bed or during my commute to school. I find that I get the highest comprehension in either the morning or very late at night. I don't measure my speed and I set the timer to end at 1s so that I can't look at it. Take as long as you need to do anki. Going faster is generally better but go at whatever pace is natural.
 
