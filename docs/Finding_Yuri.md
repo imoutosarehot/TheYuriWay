@@ -4,7 +4,7 @@ Amist a sea of straight "romance" it can be hard to find yuri. Finding yuri of t
 
 I will only be listing stuff that I have read in Japanese on this list, which isn't much. It will be continuously updated as I read more, especially the latter sections.
 
-If you don't want to wait for manual updates, ご覧くださいませ
+If you don't want to wait for manual updates, ご覧くださいませ:
 [Anilist](https://anilist.co/user/fumofumo18/)
 [VNDB](https://vndb.org/u288214)
 [Bookmeter](https://bookmeter.com/users/1536070)
