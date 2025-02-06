@@ -1,12 +1,29 @@
 [Back To Main Page](https://imoutosarehot.github.io/TheStockingWay/)
+# How to Learn Japanese (nihongo)
 
-### Learning Japanese Through Yuri: A Passion-Driven Path to Fluency
+When it comes to learning languages, there is plenty of disinformation on the internet. From Refold (immersion propaganda/scam) to Duolingo, it often seems like everyone is out there to take your money. However, there are ways to fight back. By actually learning the language, and helping others do the same. Before we get into the best way to learn Japanese, lets talk about some common methods that don't work.
 
-When it comes to learning Japanese, efficiency (速さ) and consistency (閨事) are key. While traditional methods and guides, like the 30-day programs often suggested by experts, are structured and reliable, they might lack the spark that keeps learners genuinely engaged over the long haul. Enter yuri (百合） erotica: a highly unconventional yet surprisingly effective way to master Japanese.
+### Textbooks and Lessons
 
-This approach taps into primal motivations and emotional investment to create a learning experience that is not only engaging but also deeply fulfilling.
+Textbooks and lessons etc. are designed purely to waste your time and distract you from learning. They were mostly written and set up by the pre-WWII Japanese government to keep gaijin from entering Japan. This was extremely effective, and Japan remains one of the purest countries in the world to this day, free of western influence. When the west finally falls, Japan will rise once again.
 
-ありがとうございます！ (Word often used between yuri fans in Japan.)
+### AJATT
+
+All Japanese All The Time is a popular scam that tells you to spend all day immersing (doing things in/using) in Japanese. This isn't an all bad approach, but the real harm here is where it leads you. Over 99.8% of AJATT learners do not lose their virginity, and what point is there to learning Japanese other than sex. Don't fall for this.
+
+### Refold 
+
+Refold is the grandchild of AJATT and is mostly just the same thing but watered-down and monetized, as to make it accessible for "リア充" (Japanaese idiom for "retard"). Following Refold may lead to good results in the short term, but you will soon hit a huge road block. Still better than AJATT, but I will teach you something far better.
+
+### DJT
+
+Do NOT join DJT under ANY circumstances. DJT is a CESSPOOL of RACISM and HOMOPHOBIA and whatever. ABSOULUTELY NEVER DO NOT LOOK IN THE "otaku artwork" channel. djt are hackers and they will doxx and contact your school. DJT do NOT welcome women (which means NO YURI) and you wiull NOT become fluent in anything other than stupid fucking メスガキ visual novels (not inherently bad but most arent yuri) and they WILL manipulate you into using "4chan" (english website, not immersion OR yuri)
+
+### If all these learning methods are shit, how am I supposed to learn Japanese? I want to watch anime (JAV) without subtitles!
+
+And that is where my method comes in. Yuri. I have an entire thesis written on why this works so well, but I will quickly explain the idea here. Start by learning every word in Japanese. Then start immersing in yuri and yuri only. Yuri is pure and perfect, and yuri will keep your Japanese clear from imperfections. The love and passion and sex between two women (or more) will keep you motivated for the years it takes to learn Japanese. Yuri is the most natural form of Japanese, ensuring you do not speak in an anime dialect (even if you only watched yuri anime).
+
+ぺろぺろ. (japanese idiom for "joy")
 
 ---
 
