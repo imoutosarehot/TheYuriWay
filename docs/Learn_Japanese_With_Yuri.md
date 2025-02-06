@@ -26,8 +26,8 @@ And that is where my method comes in. Yuri. I have an entire thesis written on w
 ぺろぺろ. (japanese idiom for "joy")
 
 ---
-
-#### The Challenge of Traditional Learning
+# LEARN JAPANESE WITH YURI
+### The Challenge of Traditional Learning
 
 Learning Japanese through traditional materials often relies on intrinsic motivation. This intrinsic drive—whether it's a love for the language, the culture, or the art of Japanese kanji—is powerful, but it can be fragile. Without constant reinforcement, many learners find themselves adrift in a sea of kanji and grammar, clinging to dictionaries for support as their "boat of motivation" (船) slowly sinks. The result? Burnout, frustration, and abandonment of their language-learning journey. 不是不良...
 
@@ -35,7 +35,7 @@ The solution to this problem lies in harnessing a different kind of motivation�
 
 ---
 
-#### The Power of Yuri Erotica in Language Learning
+### The Power of Yuri Erotica in Language Learning
 
 Yuri erotica, with its vivid storytelling and compelling emotions, offers a unique and powerful motivational framework. By intertwining language acquisition with themes of intimacy, romance, and passion, yuri erotica taps into traits deeply embedded in our DNA. Whether it's scenes of yuri kissing, yuri scissoring, or even the tender exchanges of forbidden love, the emotional pull of this genre can transform language learning into an effortless endeavor.
 
@@ -47,7 +47,7 @@ Where textbooks and flashcards might fail to inspire, the allure of yuri erotica
 
 ---
 
-#### A Journey Through Yuri: From Vanilla to Complex
+### A Journey Through Yuri: From Vanilla to Complex
 
 One of the most fascinating aspects of yuri erotica is its wide range of difficulty and diversity. Many learners start with simple, "vanilla" stories—those that focus on straightforward romance. These works provide a solid foundation for vocabulary and grammar, offering accessible language and relatable scenarios. As learners gain confidence, they often find themselves drawn to more complex or niche subgenres, such as BDSM or NTR (netorare).
 
@@ -61,7 +61,7 @@ This evolution keeps the learning process fresh and exciting. The genre’s inhe
 
 ---
 
-#### Yuri as a Path to Fluency
+### Yuri as a Path to Fluency
 
 The immersive nature of yuri erotica makes it an unexpectedly powerful tool for language mastery. Consider this: in analyzing just 100 volumes of yuri literature, over 20,000 unique kanjis are covered extensively. Multiply this across the thousands of yuri novels available, and it becomes clear how this genre could enable learners to reach a high level of proficiency, potentially even passing advanced language exams like Kanken 1K.
 
@@ -69,7 +69,7 @@ Moreover, the difficulty spectrum of yuri means it caters to learners of all lev
 
 ---
 
-#### Expanding Beyond Novels: Yuri VN and ASMR
+### Expanding Beyond Novels: Yuri VN and ASMR
 
 Yuri learning doesn’t stop with novels. Visual novels (VN) and ASMR provide additional layers of immersion. Visual novels bring the stories to life with voice acting, music, and visuals, allowing learners to see and hear the language in action. This multimedia approach reinforces vocabulary and grammar while introducing learners to natural pitch accents and conversational flow.
 
@@ -77,7 +77,7 @@ ASMR, on the other hand, offers an intimate and relaxing way to absorb language 
 
 ---
 
-#### A Language-Learning Experience Like No Other
+### A Language-Learning Experience Like No Other
 
 Yuri erotica offers a bold and deeply personal way to learn Japanese. By leveraging the emotional and motivational power of this genre, learners can transform their study sessions into moments of joy and passion. What starts as an unconventional experiment can quickly become a sustainable and highly effective path to fluency.
 
