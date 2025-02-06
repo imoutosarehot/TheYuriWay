@@ -2,13 +2,13 @@
 
 This is where beginners should start from. Follow this guide day by day.
 
-1. Learn hiragana, should take 30 mins 
+1. Learn hiragana, should take 30 mins
 2. Kaishi + 100 hours of imabi
 3. Kaishi + ask volt about how to learn japanese in beg gen (update: as volt is now banned, r/learnjapanese is a good second option, though less efficient)
 4. Kaishi + start reading ningen sikkaku (best beginner novel)
-5. Kaishi  + finish ningen sikkaku
+5. Kaishi + finish ningen sikkaku
 6. Kaishi + 10 hours immersion
-7. Kaishi  +11 hours immersion
+7. Kaishi +11 hours immersion
 8. Kaishi +12 hours immersion
 9. Kaishi +13 hours immersion
 10. Kaishi +14 hours immersion
@@ -33,8 +33,16 @@ This is where beginners should start from. Follow this guide day by day.
 29. Kaishi +23 hours immersion
 30. Kaishi + 1 hour immersion + harass women in grocery store
 
-# What should I do after 30 Day Guide?
+## FAQ 
 
-Read yuri. Read heaps of yuri. Yuri novels, yuri porn, yuri doujin, yuri asmr, yuri manga, yuri books, yuri anime, yuri fanfiction. Yuri is the one and only true path to fluency.
+### What should I immerse in?
 
-がうがう
+Immerse in yuri. Starting with yuri anime, subbed or unsubbed, should be good. You can also read yuri doujin and manga to practice reading, and once you have a decent vocabulary (at least a few hundred words in kaishi) you can start reading. Please refer to my Yuri Roadmap. At this early stage it helps to put a heavy focus on sexual yuri, because it will motivate you to read more.
+
+### Where should I ask questions?
+
+You can join the discord linked on the main page, but I suggest using google. Most questions asked by beginners are retarded. Please accent that if you are a beginner, nobody likes you and everything you say is stupid and uninformed. Every question you have has been asked before. Accept that you are wrong, and embrace yuri.
+
+### What happens after the 30 days?
+
+Refer to Yuri Roadmap.
