@@ -1,4 +1,4 @@
-[Back To Main Page](https://imoutosarehot.github.io/TheStockingWay/)
+[Back To Main Page](https://imoutosarehot.github.io/TheYuriWay/)
 
 Learning Japanese can be a very tedious and long journey, and I think it may be helpful to share my approach to different parts.
 
