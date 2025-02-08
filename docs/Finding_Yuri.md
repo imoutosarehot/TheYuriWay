@@ -33,6 +33,8 @@ Also, do remember my top tier yuri technique, which is to convince yourself that
 	- 捏造トラップ―NTR―
 	- 桜Trick
 	- 青い花
+ - vn
+ 	- はなひらっ！ 
 ### Post-Kaishi
 - light novels
 	- 女同士とかありえないでしょ (more casual speech)
