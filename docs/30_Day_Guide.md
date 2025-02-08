@@ -1,12 +1,12 @@
-[Back To Main Page](https://imoutosarehot.github.io/TheStockingWay/)
+[Back To Main Page](https://imoutosarehot.github.io/TheYuriWay/)
 
 This is where beginners should start from. Follow this guide day by day.
 
 1. Learn hiragana, should take 30 mins
-2. Kaishi + 100 hours of imabi
+2. [Kaishi](https://github.com/donkuri/Kaishi) + 100 hours of i[mabi](https://imabi.org/) (or [sakubi](https://sakubi.neocities.org/) as an alternative)
 3. Kaishi + ask volt about how to learn japanese in beg gen (update: as volt is now banned, r/learnjapanese is a good second option, though less efficient)
-4. Kaishi + start reading ningen sikkaku (best beginner novel)
-5. Kaishi + finish ningen sikkaku
+4. Kaishi + start reading [ningen sikkaku](https://nyaa.si/view/493626) (best beginner novel)
+5. Kaishi + finish [ningen sikkaku](https://nyaa.si/view/493626)
 6. Kaishi + 10 hours immersion
 7. Kaishi +11 hours immersion
 8. Kaishi +12 hours immersion
@@ -31,7 +31,7 @@ This is where beginners should start from. Follow this guide day by day.
 27. Kaishi +23 hours immersion
 28. Kaishi +23 hours immersion
 29. Kaishi +23 hours immersion
-30. Kaishi + 1 hour immersion + harass women in grocery store
+30. Kaishi + 1 hour immersion + harass women in public
 
 ## FAQ 
 
@@ -46,3 +46,7 @@ You can join the discord linked on the main page, but I suggest using google. Mo
 ### What happens after the 30 days?
 
 Refer to Yuri Roadmap.
+
+### Which site is better for grammar?
+
+Idc
