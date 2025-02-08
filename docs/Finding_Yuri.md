@@ -1,4 +1,4 @@
-[Back To Main Page](https://imoutosarehot.github.io/TheStockingWay/)
+[Back To Main Page](https://imoutosarehot.github.io/TheYuriWay/)
 
 Amist a sea of straight "romance" it can be hard to find yuri. Finding yuri of the correct level is even harder. This will serve as a hub of sorts, for immersion material at every stage of your Japanese learning experience. 
 
