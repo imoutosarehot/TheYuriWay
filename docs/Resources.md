@@ -1,4 +1,4 @@
-[Back To Main Page](https://imoutosarehot.github.io/TheStockingWay/)
+[Back To Main Page](https://imoutosarehot.github.io/TheYuriWay/)
 # Resources
 
 IMPORTANT NOTE:
