@@ -1,6 +1,8 @@
 [Back To Main Page](https://imoutosarehot.github.io/TheYuriWay/)
 # Resources
 
+Only resources that I personally use are included. Details for setup should be easy to find via the linked websites or a quick google search. Do not ask me questions or I will block you. I would like to think that the listed resources are a good balance between simplicity (not using 1 million tools) and convenience (not making anki cards by hand).
+
 ### Anime
 - Streaming/Downloading
 	- [Hianime ](https://hianime.to/)
@@ -40,7 +42,7 @@
 - Anki
 	- [Anki Haptics](https://ankiweb.net/shared/info/247550864)
 	- [Kanji Grid](https://ankiweb.net/shared/info/1610304449)
-	- [Lapis Notetype](https://github.com/donkuri/lapis)
+	- [Lapis Notetype](https://github.com/donkuri/lapis) (I use JPMN handlebars instead of the default)
 - Guide
 	- [AJATT](https://alljapanesealltheti.me/) (only use this archive, not the actual site)
 	- [TMW](https://learnjapanese.moe/)
