@@ -1,44 +1,54 @@
 [Back To Main Page](https://imoutosarehot.github.io/TheYuriWay/)
 # Resources
 
-IMPORTANT NOTE:
-Any and all apps that aren't technical and difficult to set up are 100% bullshit and will ruin your Japanese. Any resource you use should be completely free and have a balance between technicality, versatility, and ease of use. Do not use things just because they look pretty or let you do your shit mindlessly. You want to have as much control over your tools as possible, so that you can change and tweak and migrate between different options over many years of learning. This means using Yomitan instead of Migaku. Anki instead of Duolingo. Don't be retarded. You should never have to pay for anything, save Anki on IOS.
-
-In addition, you should know how to literally use fucking google or something to find things on your own. You don't need a guide, you don't need to ask 1 billion people. 99.9999% of questions and problems you have already have solutions, you just need to find them.
-
-To enforce this and ensure followers of the Stocking Way develop these skills, I will not be adding links when I decide that it's too much effort to do so.
-
 ### Anime
-- [Hianime ](https://hianime.to/)
-	- Best place for streaming raw anime, use asbplayer to add subtitles if you need them.
-- [Nyaa.si ](https://nyaa.si/)
-	- Torrent site, contains many things.
-- [Jimaku.cc](https://jimaku.cc/)
-	- Download subtitles for use with asbplayer
+- Streaming/Downloading
+	- [Hianime ](https://hianime.to/)
+	- [Aniplay](https://aniplay.com.im/) (not as good imo) 
+	- [Nyaa.si ](https://nyaa.si/) (downloads)
+- Apps
+	- [Aniyomi](https://aniyomi.org/) (I use this on mobile)
+- Subtitles
+	- [asbplayer](https://github.com/killergerbah/asbplayer)
+	- [JImaku](https://jimaku.cc/)
+	- [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs)
 
 ### Visual Novels 
-- [Nyaa.si ](https://nyaa.si/)
-	- Most vn are on the nsfw part of the website
-	- Please don't download 1 billion viruses.
-- [TMW discord server](https://discord.gg/HHpdjwNZvh)
+- Download
+	- [Nyaa.si ](https://nyaa.si/)
+- Other
+	- [TMW discord server](https://discord.gg/HHpdjwNZvh)
+	- [Textractor](https://github.com/Artikash/Textractor)
 
 ### Manga 
-honestly not many good resources for manga...
-- [Mihon](https://mihon.app/) and whatever forks you prefer
+- [Mihon](https://mihon.app/) (if use use anihon it also does manga)
 - [Nhentai](https://nhentai.net/search/?q=%22females+only%22+%22yuri%22+language%3Ajapanese)
 - [Nyaa.si ](https://nyaa.si/)
 
 ### Novels
 - [TMW discord server](https://discord.gg/HHpdjwNZvh)
-- Z-Library
-- Idk probably a million other places
-- [Ttsu Reader](https://reader.ttsu.app/) for reading
+- [Z-Library](https://1lib.sk/)
+- Anna's Archive
+- [Yuri Google Drive](https://drive.google.com/drive/folders/1Bv9LVyvBa0yexBQIn-0Bo5Lg2ksPakxb?usp=sharing)
+- [Ttsu Reader](https://reader.ttsu.app/) 
 
 ### Plain Audio
-- [TMW Audiobook Collection](https://core6000.neocities.org/audio/) (there are some yuri works, like adachi to shimamura)
-- [ASMR.one](https://asmr.one/works?keyword=%24tag%3AYuri%20%2F%20Girls%20Love%24) (highly recommended because of yuri)
-- Podcasts, from anywhere
+- [TMW Audiobook Collection](https://core6000.neocities.org/audio/)
+- [ASMR.one](https://asmr.one/works?keyword=%24tag%3AYuri%20%2F%20Girls%20Love%24) 
 
 ### Other
-- [Anki Haptics](https://ankiweb.net/shared/info/247550864)
-	- This is vital for making Anki a better experience.
+- Anki
+	- [Anki Haptics](https://ankiweb.net/shared/info/247550864)
+	- [Kanji Grid](https://ankiweb.net/shared/info/1610304449)
+	- [Lapis Notetype](https://github.com/donkuri/lapis)
+- Guide
+	- [AJATT](https://alljapanesealltheti.me/) (only use this archive, not the actual site)
+	- [TMW](https://learnjapanese.moe/)
+- Phonetics
+	- [Dogen Archive](https://mega.nz/folder/sVEizTTb#Z_0QKuN2GyMphaK9w4-A5Q)
+	- [Pitch Accent](https://kotu.io/)
+- Grammar
+	- [Imabi](https://imabi.org/)
+- Dictionary
+	- [Jisho](https://jisho.org/)
+	- [Kanji Jitenon](https://kanji.jitenon.jp/)
