@@ -61,7 +61,7 @@ Also, do remember my top tier yuri technique, which is to convince yourself that
 
 https://rentry.co/u2hrnpfp
 
-# Unsorted Manga Lists 
+# Unsorted Manga List
 
 From that one yuri girl on refold:
 - ゆりなつvery light, very lewd, romance focus with comedy, 3 volumes, finished
