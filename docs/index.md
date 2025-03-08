@@ -9,6 +9,7 @@ If you are not a beginner, consider reading the many guides and articles I have 
 - [The Yuri Method](The_Yuri_Method.md)
 - [Resources](Resources.md)
 - [Finding Yuri](Finding_Yuri.md)
+- [Why You Should Do 100 New Cards Per Day](Why_You_Should_Do_100_New_Cards_Per_Day.md)
 
 This website will continue to be updated with new articles and changes to the method, and new ideas emerge. 
 
