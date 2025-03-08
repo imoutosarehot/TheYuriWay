@@ -18,4 +18,4 @@ If you have any questions or wish to meet likeminded fans of yuri, join the disc
 
 Credits:
 Stocking (main author)
-Vinges (made website)
+Vignes (made website)
