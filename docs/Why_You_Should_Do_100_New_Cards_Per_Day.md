@@ -1,6 +1,7 @@
 [Back To Main Page](https://imoutosarehot.github.io/TheYuriWay/)
 
-This guide assumes that you know what anki is, how to use it, and more or less what the different settings are. 
+This guide assumes that you know what anki is, how to use it, and more or less what the different settings are. This slightly branches away from the yuri themes of the rest of the website. Please be warned.
+
 # TLDR
 
 1. Pushing your limits is good and leads to progress.
