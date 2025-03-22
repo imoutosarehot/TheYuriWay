@@ -14,7 +14,7 @@ If you are not a beginner, consider reading the many guides and articles I have 
 This website will continue to be updated with new articles and changes to the method, and new ideas emerge. 
 
 If you have any questions or wish to meet likeminded fans of yuri, join the discord server:
-[https://discord.gg/xd2ZVs88WE](https://discord.gg/xd2ZVs88WE)
+[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra)
 
 Credits:
 Stocking (main author)
