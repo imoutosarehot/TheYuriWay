@@ -1,21 +1,26 @@
-# The Yuri Way
+site under temporary construction hehaousiehhahhahahaahahahhahahahahehahhaehahhahaha
 
-If you are looking to learn Japanese, you have come to the right place.
+Welcome to the Yuri Way.
 
-If you are brand new to language learning, read the [30 Day Guide](30_Day_Guide.md), [FAQ](FAQ.md), and [Learn Japanese With Yuri](Learn_Japanese_With_Yuri.md). Then read the rest of the website. 
+The Yuri Way is a guide for people learning to with Japanese through Yuri.
 
-If you are not a beginner, consider reading the many guides and articles I have written:
+If you are not already familiar with input based language learning, I suggest reading [[!!!!!!!!THIS!!!!!!!!]] site for a good overview. Otherwise, this guide will outline my personal approaches to several different components of language learning with an assumption of baseline understanding. 
 
-- [The Yuri Method](The_Yuri_Method.md)
-- [Resources](Resources.md)
-- [Finding Yuri](Finding_Yuri.md)
-- [Why You Should Do 100 New Cards Per Day](Why_You_Should_Do_100_New_Cards_Per_Day.md)
+Many of my specific recommendations will be with mental illness in mind, and people who struggle with motivation, impulsivity, etc. may benefit. People looking for a more flexible or loose approach may also find some ideas useful.
 
-This website will continue to be updated with new articles and changes to the method, and new ideas emerge. 
+If you are dedicated to Yuri or have questions, feel free to join the [[!!!!!!!!!!!!!!!!!!!Discord Server!!!!!!!!!!!!!!]]
+[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra "https://discord.gg/JkqmEHnXra")
+### Articles
 
-If you have any questions or wish to meet likeminded fans of yuri, join the discord server:
-[https://discord.gg/JkqmEHnXra](https://discord.gg/JkqmEHnXra)
+- General
+	- [[Listening (e)]]
+	- [[Output (e)]]
+	- [[Anki (e)]]
+### Other Guides
 
-Credits:
-Stocking (main author)
-Vignes (made website)
+The following guides are all based on the same simple input based method, but take different approaches. They are not required reading but may be helpful if you feel lost, or that the Yuri Way is not well tailored to you. I do not necessarily endorse all recommendations made on the following.
+
+- Donburi
+- TMW
+- DJT
+- Refold
