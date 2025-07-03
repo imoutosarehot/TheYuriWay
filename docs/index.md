@@ -12,9 +12,9 @@ If you are dedicated to Yuri or have questions, feel free to join the [Discord S
 
 ### Index
 
-- [[Anki]]
-- [[FAQ]]
-- [[Output]]
+- [[Anki.md]]
+- [[FAQ.md]]
+- [[Output.md]]
 
 I'm currently working on several other articles!!
 
