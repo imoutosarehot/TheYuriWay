@@ -1,20 +1,25 @@
-# The Yuri Way
+Welcome to the Yuri Way!!
 
-If you are looking to learn japanese, you have come to the right place.
+The Yuri Way is a guide for people learning to with Japanese through Yuri.
 
-Don't know how learning languages works? Read my [Language Learning Theory](Language_Learning_Theory.md) guide, and then the rest of the website.
+If you are not already familiar with input based language learning, I suggest reading this site for a good overview. Otherwise, this guide will outline my personal approaches to several different components of language learning with an assumption of baseline understanding.
 
-If you are a beginner, please refer to the [30 Day Guide](30_Day_Guide.md).
+Many of my specific recommendations will be with mental illness in mind, and people who struggle with motivation, impulsivity, etc. may benefit. People looking for a more flexible or loose approach may also find some ideas useful.
 
-If you are a beginner, please refer to the [FAQ](FAQ.md).
+Learning Japanese primarily through Yuri is very much possible, and I will try to work on more Yuri related articles soon.
 
-If you are not a beginner, Please refer to the [Learn Japanese With Yuri](Learn_Japanese_With_Yuri.md).
+If you are dedicated to Yuri or have questions, feel free to join the Discord Server!!
 
-Also read:
-- [Finding Yuri](Finding_Yuri.md)
-- [Resources](Resources.md)
+Index
+Anki
+FAQ
+Output
+I'm currently working on several other articles!!
 
-Discord: [https://discord.gg/xd2ZVs88WE](https://discord.gg/xd2ZVs88WE)
+Other Guides
+The following guides are all based on the same simple input based method, but take different approaches. They are not required reading but may be helpful if you feel lost, or that the Yuri Way is not well tailored to you. I do not necessarily endorse all recommendations made on the following.
 
-Thanks vinges for making the website not shit
-
+Donkuri
+TMW
+DJT
+Refold
