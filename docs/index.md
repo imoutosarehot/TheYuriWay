@@ -1,6 +1,6 @@
 Welcome to the Yuri Way!!
 
-The Yuri Way is a guide for people learning to with Japanese through Yuri.
+The Yuri Way is a guide for people wishing to learn Japanese with Yuri.
 
 If you are not already familiar with input based language learning, I suggest reading [this](https://donkuri.github.io/learn-japanese/) site for a good overview. Otherwise, this guide will outline my personal approaches to several different components of language learning with an assumption of baseline understanding. 
 
