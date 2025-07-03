@@ -54,4 +54,4 @@ Do this deck once you know how to read and feel like learning how to write.
 [Grammar Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)
 Do this deck at some point if you want to learn JLPT grammar points.
 
-[[List of other random decks that are cool but not as important IMO]]
+[List of other random decks that are cool but not as important IMO](AnkiDecks.md)
