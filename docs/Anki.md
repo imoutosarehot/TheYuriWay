@@ -15,8 +15,7 @@ My learning steps are set to 1m 10m for new and 10m for lapses. I'm not sure if 
 I also have leeches set to suspend for no particular reason.
 
 You can copy my exact settings here:
-[List of Addons](ListOfAddons.md)
-[Settings](Settings.md)
+[List of Addons](ListOfAddons.md) ・ [Settings](Settings.md)
 
 ### Mining 
 
