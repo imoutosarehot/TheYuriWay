@@ -15,6 +15,7 @@ If you are dedicated to Yuri or have questions, feel free to join the [Discord S
 - [Anki](Anki.md)
 - [FAQ](FAQ.md)
 - [Output](Output.md)
+- [Yuri Recommendations](Recommendations.md)
 
 I'm currently working on several other articles!!
 
