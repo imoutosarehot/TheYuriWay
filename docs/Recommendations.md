@@ -2,7 +2,7 @@
 
 - [LilyDB](https://lilydb.app/ja/info) exclusively Yuri and insanely well made, has content from several languages, tags, etc.
 - [VNDB](https://vndb.org/g1986?f=&m=0&s=24w)
-- [Anilist](https://anilist.co/search/anime?genres=Yuri)(also [for manga](https://anilist.co/search/manga?genres=Yuri))
+- [Anilist](https://anilist.co/search/anime?genres=Yuri) (also [for manga](https://anilist.co/search/manga?genres=Yuri))
 - [Yuri Navi](https://yurinavi.com/yurisyousaikensaku-test/)
 - [Yuri Bungeibu](https://yuribungeibu.com/top/)
 - [Yuri Novel](https://www.yurinovel.com/)
