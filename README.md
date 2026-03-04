@@ -1,26 +1,34 @@
-Welcome to the Yuri Way!!
+welcome to the yuri way!!!
 
-The Yuri Way is a guide for people learning to with Japanese through Yuri.
+the yuri way is the woke shitpost equivalent to the moe way and is purely to spread my own opinions and approach to learning
 
-If you are not already familiar with input based language learning, I suggest reading [this](https://donkuri.github.io/learn-japanese/) site for a good overview. Otherwise, this guide will outline my personal approaches to several different components of language learning with an assumption of baseline understanding. 
+if you don't know what immersion is or how to learn japanese already, i suggest reading [this](https://donkuri.github.io/learn-japanese/) guide since its actually well made!!!! my guide is probably best for people who are very dedicated but inconsistent or struggle with energy/motivation or whatever. also yuri!!!!!!!!!!!!!!!
 
-Many of my specific recommendations will be with mental illness in mind, and people who struggle with motivation, impulsivity, etc. may benefit. People looking for a more flexible or loose approach may also find some ideas useful.
+learning japanese purely through yuri is very much possible i promise
 
-Learning Japanese primarily through Yuri is very much possible, and I will try to work on more Yuri related articles soon.
+if you are dedicated to Yuri or have questions, feel free to join the [discord server](https://discord.gg/WPkKJMBrGq) where we talk about yuri
 
-If you are dedicated to Yuri or have questions, feel free to join the [Discord Server](https://discord.gg/WPkKJMBrGq)!!
+### useful articles
 
-### Index
-
-- [Anki](Anki.md)
+- [anki](Anki.md)
+- [mining](Mining.md)
 - [FAQ](FAQ.md)
-- [Output](Output.md)
+- [starting output](Output.md)
+- [output tips](OutputTips.md)
+- [pronounciation and pitch](Pronounciation.md)
+- [yuri recommendations](Recommendations.md)
 
-I'm currently working on several other articles!!
+### random slop
 
-### Other Guides
+- [vrchat guide (incomplete)](VRChat.md)
+- [getting drugs in japan](Drugs.md)
+- [learning timeline](LearningTimeline.md)
 
-The following guides are all based on the same simple input based method, but take different approaches. They are not required reading but may be helpful if you feel lost, or that the Yuri Way is not well tailored to you. I do not necessarily endorse all recommendations made on the following.
+im working on a bunch of other shit but it'll probably take a while
+
+### other guides
+
+these guides are probably a lot more helpful but i dont agree with everything in them. idk just do whatever
 
 - [Donkuri](https://donkuri.github.io/learn-japanese/)
 - [TMW](https://learnjapanese.moe/)
