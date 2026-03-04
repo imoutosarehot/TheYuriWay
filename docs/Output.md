@@ -11,3 +11,15 @@ i personally recommend [vrchat](VRChat.md), there are lots of japanese worlds an
 outputting with other learners is a complete waste of time imo but its not gonna ruin your japanese or whatever so idk have fun ig
 
 also remember to output for the sake of actually interacting with people, istg people who output just for the sake of getting better have the most こんにちわ　元気ですか？　今日なにしたの？？？ ahh conversations ever and its shallow asf and they never make any friends and give up. just make friends and have authentic conversations with people and youll get way further!!!!
+
+### Good Places To Output
+
+the best way to output is by having Japanese friends, or by living in Japan. otherwise:
+
+[VR Chat](https://hello.vrchat.com/)
+- this is by far the best place to practice output short of meeting people in real life
+
+[KoeTomo](https://koetomo.fun/)
+- 誰とでも楽しく話せる！
+
+i would love to list more options but these two have already been more than enough... maybe try twitter or smth idk.... or talk to the like 4 or 5 japanese people who exist on discord...
