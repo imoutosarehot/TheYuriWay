@@ -13,7 +13,7 @@ if you are dedicated to Yuri or have questions, feel free to join the [discord s
 - [anki](Anki.md)
 - [mining](Mining.md)
 - [FAQ](FAQ.md)
-- [output](Output.md)
+- [starting output](Output.md)
 - [pronounciation and pitch](Pronounciation.md)
 - [yuri recommendations](Recommendations.md)
 
