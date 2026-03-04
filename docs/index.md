@@ -14,6 +14,7 @@ if you are dedicated to Yuri or have questions, feel free to join the [discord s
 - [mining](Mining.md)
 - [FAQ](FAQ.md)
 - [output](Output.md)
+- [pronounciation and pitch](Pronounciation.md)
 - [yuri recommendations](Recommendations.md)
 
 im working on a bunch of other shit but it'll probably take a while
