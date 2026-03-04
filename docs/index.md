@@ -22,6 +22,7 @@ if you are dedicated to Yuri or have questions, feel free to join the [discord s
 
 - [vrchat guide (incomplete)](VRChat.md)
 - [getting drugs in japan](Drugs.md)
+- [learning timeline](LearningTimeline.md)
 
 im working on a bunch of other shit but it'll probably take a while
 
