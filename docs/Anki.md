@@ -1,47 +1,40 @@
 ### Reviewing
 
-I grade for reading, meaning, and pitch. I don't think what you grade for particularly matters, it's probably best to just use Anki to cover your weak areas in Japanese. Since meaning is the easiest for me to learn, I usually bury cards (- on your keyboard) if I got the reading and pitch right, but couldn't remember the meaning. Unburying them at the end of the day and seeing them a second time is usually enough to remember the meaning, but if it isn't, I then mark them wrong.
+i grade for reading, meaning, and pitch. how you grade doesnt really matter, its probably best to just use anki to cover your weak points (e.g. if you struggle with readings focus on readings, if you struggle with meaning focus on those). i dont grade cards wrong for meaning the first time, instead i suspend them and review a second time at the end of the day. usually thats enough to remember the meaning, but if it isnt i just grade them wrong and move on.
 
-It's fairly popular to grade only for reading and I think it's completely fine and also a lot faster as you need to recall less information, but I personally recommend also trying to recall pitch as it's basically part of the reading and a pain to acquire later on if you don't start early. If you have a massive deck already and start grading for pitch suddenly, you will probably be surprised by how often you get it wrong. Also see some stuff about pitch in [this article](Output.md).
+its pretty popular to grade only for reading and i think thats fine, but i strongly recommend also grading for pitch since its fucking terrible trying to relearn and fix your pitch later on. if you have a huge deck and start grading pitch suddenly youll probably cry over how many cards you get wrong. also read [this article](Output.md) for more pitch !!!!
 
-I try to do reviews first thing every morning, all at once if I can, or in a few sessions if there are too many. If you don't have the energy to finish all of them, just do as much as you can. The more you neglect reviews the harder they will get, but something is always better than nothing.
+i try to do all my reviews in the morning first thing, usually all at once. if you have too many reviews to do that you can just do it in smaller sessions and its usually pretty easy that way. if you dont have the energy to do them all u can always just do your best and call it a day!!!!!
 
 ### New Cards
 
-There are lots of valid ways to add or learn new cards.
 
-Personally I think it's best to learn every word you mine same day or soon after, and avoid having a backlog. My strategy for this is to rep everything I mine after each chapter of a book, episode of anime, etc., as a short break. It usually only takes a few minutes to get through them, and by splitting it up like this you can learn a LOT of new cards in a day without really feeling tired.
+personally i think its best to learn new cards as you mine them. i usually rep new cards every few episodes or chapters or whatever. it splits them up and makes it really easy, and you can get through a fuckton of new cards every day this way. it also keeps the context fresh in your head and makes the meaning and everything stick better.
 
-Setting a strict number of new cards per day is fine if that works for you, but personally I find it restricting. If you don't feel like doing new cards then just don't do them, and if you want to keep learning after you've finished you can just increase them. Be careful doing this though as you can end up with a lot of reviews. Sometimes I feel burnt out after reviews and set new to 0, but then come back a few hours later and learn a few hundred all at once. Just do whatever you feel like based on how much energy you have.
+setting a strict number of new cards per day is lowk kinda retarded imo, but if it works for you go ahead and do that. i think a better approach is either what i do, or setting a more fluid limit based on how much energy you have to learn cards (e.g. if youre dead inside do nothing, if youre really enthusiastic learn like 500). sometimes im burnt out from reviews or hungover or really sleep deprived and learning just doesnt go very well, so i skip out on new cards that wont stick well anyways. other times im really into it and go through hundreds of new cards all at once.
 
-If you have a backlog or a pre-made deck, I suggest making it a subdeck of your mining deck and doing a set number of new cards on top of whatever you mine. You can always increase or decrease it based on how many cards you want to learn in the moment. 
-
-If you're really dedicated to Anki some people have made massive frequency sorted decks of like 40k words and just done them at 500 new a day for a few months and made massive progress in a short time. This is worth trying I think if you are dedicated enough, but you could also just read instead. As long as you immerse enough it doesn't really matter what you do.
-
+if you have a backlog or premade deck i suggest using them as subdecks and learning a set amount of words ontop of what you mined in a given day. you can change the amount of new cards based on your mood of course.
 ### Settings
 
-My settings are mostly normal, but I will go over the few unique ones.
+my settings are mostly normal i think but i do 1m 10m for new cards and i think 10m for lapses (?) and everything works out fine. adding microintervals or really long intervals is kinda pointless now that fsrs exists
 
-I set new cards to 9999 per day.
+since i learn new cards as i mine i have new set to 9999, and then for subdecks i just do whatever feels right.
 
-My learning steps are set to 1m 10m for new and 10m for lapses. I'm not sure if this is optimal for retention but it makes Anki very fast and I still almost always get between 85% and 95% true retention. My FSRS is set to 85%.
+fsrs is at 85, idk what a good number for that is but apparently the 88 i had before is a nazi thing????
 
-I also have leeches set to tag for no particular reason.
-
-You can copy my exact settings here, though they may be outdated:
 [Addons](Addons.md) ・ [Settings](Settings.md)
 
 ### Premade Decks
 
-There are several premade decks worth considering:
+there are several premade decks worth considering:
 
 [Kaishi](https://github.com/donkuri/Kaishi)
-Do this deck if you are new.
+do this deck if you are new.
 
 [Kanken Deck](https://animecards.site/writingjapanese/)
-Do this deck once you know how to read and feel like learning how to write.
+do this deck once you know how to read and feel like learning how to write.
 
 [Grammar Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)
-Do this deck at some point if you want to learn JLPT grammar points.
+do this deck at some point if you want to learn JLPT grammar points.
 
-[List of other random decks that are cool but not as important IMO](AnkiDecks.md)
+[list of other random decks that are cool but not as important IMO](AnkiDecks.md)
