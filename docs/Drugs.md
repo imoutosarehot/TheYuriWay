@@ -1,4 +1,4 @@
-getting drugs in japan is pretty shit as they make everything illegal and are super strict, but there are lots of fun things to try!!!
+getting drugs in japan is pretty shit as they make everything illegal and are super strict, but there are lots of fun things to try!!! if you are underage also note that you can get alcohol and cigs at convencience stores etc. without id checks (its happened like twice for me) really easily.
 
 OTC:
 - メジコン咳止め剤, pretty good dxm with no shit mixed in but a bit expensive. you can only buy 1 box per store but if you just walk around to a few youll be fine.
