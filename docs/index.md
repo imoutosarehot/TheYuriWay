@@ -18,6 +18,10 @@ if you are dedicated to Yuri or have questions, feel free to join the [discord s
 - [pronounciation and pitch](Pronounciation.md)
 - [yuri recommendations](Recommendations.md)
 
+### random slop
+
+- [vrchat guide (incomplete)](VRChat.md)
+
 im working on a bunch of other shit but it'll probably take a while
 
 ### other guides
