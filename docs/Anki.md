@@ -2,7 +2,7 @@
 
 i grade for reading, meaning, and pitch. how you grade doesnt really matter, its probably best to just use anki to cover your weak points (e.g. if you struggle with readings focus on readings, if you struggle with meaning focus on those). i dont grade cards wrong for meaning the first time, instead i suspend them and review a second time at the end of the day. usually thats enough to remember the meaning, but if it isnt i just grade them wrong and move on.
 
-its pretty popular to grade only for reading and i think thats fine, but i strongly recommend also grading for pitch since its fucking terrible trying to relearn and fix your pitch later on. if you have a huge deck and start grading pitch suddenly youll probably cry over how many cards you get wrong. also read [this article](Output.md) for more pitch !!!!
+its pretty popular to grade only for reading and i think thats fine, but i strongly recommend also grading for pitch since its fucking terrible trying to relearn and fix your pitch later on. if you have a huge deck and start grading pitch suddenly youll probably cry over how many cards you get wrong. also read [this article](Pronounciation.md) for more pitch !!!!
 
 i try to do all my reviews in the morning first thing, usually all at once. if you have too many reviews to do that you can just do it in smaller sessions and its usually pretty easy that way. if you dont have the energy to do them all u can always just do your best and call it a day!!!!!
 
