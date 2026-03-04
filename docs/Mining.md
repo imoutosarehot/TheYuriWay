@@ -1,33 +1,33 @@
-### Strategy 
+### for beginners
 
-I think there are several good approaches to mining depending on your current level. 
+depending on your level there are lots of good ways to approach mining!!!!!
 
-For beginners or people just finished with Kaishi, and who's biggest barrier to reading and most frequent lookups are for reading, then I think the fastest way to improve is to mine words that contain:
+if youre fresh out of kaishi and illiterate i suggest focusing on readings since they are the biggest obstacle, heres is a list of what words to mine:
 
-a) a kanji you have never seen before
+a) words with kanji you have never seen before
 b) a new reading for a kanji you already know
 c) specific words you just feel like mining
 
-At this point if you mine every single word you don't know, it's going to add up and become a LOT of cards which can be overwhelming to some people. By focusing on your biggest weak points, you can reduce that load while still improving quite fast. For beginners there are also a lot of high frequency words that you don't know but can acquire very easily without Anki given how frequently they show up (I mean words that you don't know but will probably see several times a day if you immerse even a little bit), so doing more Anki than this may not even be a good idea until you're able to filter out the words that are actually worth mining.
+at this point you dont even know really common words, and so mining everything would just be a waste of time. a lot of words you dont know are gonna show up several times a day and youll pick them up really fast, especially if you can read them. save mining for reading for once you know most of the words and meaning is a bigger barrier for you than readings.
 
-For learners who don't struggle as much with readings, I think there are still multiple good approaches depending on how much time you want to dedicate to Anki.
+### slightly more advanced learners
 
-Personally I just mine every single word that I need to look up, be that for meaning, reading, pitch, etc. This includes words written in kana as well. Depending on the difficulty of the material you are immersing in, you might end up mining hundreds of new words every day. I have a strategy for dealing with this in my [Anki](Anki.md) article. This is a very Anki heavy approach but I think the extra exposure you get, especially to less common words, is very helpful. Actively searching for new words has also helped me stop whitenoising a lot of words that I *sort of knew* but didn't *actually* know, which is just a mindset thing but could prove helpful. Depending on how you do your new cards, it may be helpful to use a frequency sorter for this.
+if you can read then there are lots of different approaches to mining and you can probably figure out something on your own. just target your weak points idk.
 
-A more minimal approach could just be doing the same thing I recommended to beginners, and relying on lots of immersion to acquire words. I think this approach is best suited to people immersing in the same series for a long period of time, since the same words will come up over and over and over again faster than they would otherwise. Not that it's necessarily a requirement though.
+personally i just mine everything i need to look up for any reason, be that meaning, reading, pitch, etc. doing it this way has helped me stop whitenoising a lot of words i sort of knew but didnt really know before, and werent frequent enough for me to pick up just from reading (you can 100% get them just from reading but it takes longer idk). if you arent good at japanese this can probably add up to hundreds of words per day but its really not that bad if you follow my recommendations for learning new cards. btw i mine kana.
 
-Not mining at all is also a very valid approach and plenty of people have gotten very good at Japanese this way, but I generally think that mining is extremely beneficial.
+a more minimal approach could just be mining for readings an kanji and then reading a lot more than i do. if you read a really long series or stick to a specific genre then that alone acts as a natural srs and you dont really need anki as much.
 
-### Random Tips
+if youre schizophrenic or autistic or whatever you could also be like wei and make a 40k card deck based on jpdb frequency and learn it at 500 words a day and frontload a fuckton of vocabulary, but i think more people would rather kill themselves.
 
-- You can press fn + alt + insert to get to a static search page for Yomitan. Very useful when you just want to look up a word but it's not somewhere scannable.
+### random tips
 
-### Tools
+- you can press fn + alt + insert to get to a static search page for yomitan. very useful when you just want to look up a word but it's not somewhere scannable.
 
-The only tools necessary are Yomitan and Anki, but the following may be useful:
+### tools
 
-- Quizmasters audio source (Far better coverage than the more popular local audio solution, and tts for words still not covered. You can set it up yourself for free, not entirely sure where the guide for that is written though.)
-- AGT Anki Addon (Fills in pitch and furigana on all your cards as you mine, pretty useful IMO)
-- Marv's Dictionary Collection (Lots of dictionaries not included in Shoui's collection, frequently updated)
+the only tools necessary are yomitan and anki, but the following may be useful:
 
-Also check out these sites for other tools:
+- auizmasters audio source (far better coverage than the more popular local audio solution, and tts for words still not covered. you can set it up yourself for free, not entirely sure where the guide for that is written though.)
+- ajt anki addon (fills in pitch and furigana on all your cards as you mine, good if you dont whitenoise pitch)
+- marvs dictionary collection (lots of dictionaries not included in shouis collection, frequently updated)
