@@ -13,6 +13,7 @@ If you are dedicated to Yuri or have questions, feel free to join the [Discord S
 ### Index
 
 - [Anki](Anki.md)
+- [Mining](Mining.md)
 - [FAQ](FAQ.md)
 - [Output](Output.md)
 - [Yuri Recommendations](Recommendations.md)
