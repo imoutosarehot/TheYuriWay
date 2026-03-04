@@ -1,45 +1,35 @@
+### Reviewing
+
+I grade for reading, meaning, and pitch. I don't think what you grade for particularly matters, it's probably best to just use Anki to cover your weak areas in Japanese. Since meaning is the easiest for me to learn, I usually bury cards (- on your keyboard) if I got the reading and pitch right, but couldn't remember the meaning. Unburying them at the end of the day and seeing them a second time is usually enough to remember the meaning, but if it isn't, I then mark them wrong.
+
+It's fairly popular to grade only for reading and I think it's completely fine and also a lot faster as you need to recall less information, but I personally recommend also trying to recall pitch as it's basically part of the reading and a pain to acquire later on if you don't start early. If you have a massive deck already and start grading for pitch suddenly, you will probably be surprised by how often you get it wrong. Also see some stuff about pitch in [this article](Output.md).
+
+I try to do reviews first thing every morning, all at once if I can, or in a few sessions if there are too many. If you don't have the energy to finish all of them, just do as much as you can. The more you neglect reviews the harder they will get, but something is always better than nothing.
+
+### New Cards
+
+There are lots of valid ways to add or learn new cards.
+
+Personally I think it's best to learn every word you mine same day or soon after, and avoid having a backlog. My strategy for this is to rep everything I mine after each chapter of a book, episode of anime, etc., as a short break. It usually only takes a few minutes to get through them, and by splitting it up like this you can learn a LOT of new cards in a day without really feeling tired.
+
+Setting a strict number of new cards per day is fine if that works for you, but personally I find it restricting. If you don't feel like doing new cards then just don't do them, and if you want to keep learning after you've finished you can just increase them. Be careful doing this though as you can end up with a lot of reviews. Sometimes I feel burnt out after reviews and set new to 0, but then come back a few hours later and learn a few hundred all at once. Just do whatever you feel like based on how much energy you have.
+
+If you have a backlog or a pre-made deck, I suggest making it a subdeck of your mining deck and doing a set number of new cards on top of whatever you mine. You can always increase or decrease it based on how many cards you want to learn in the moment. 
+
+If you're really dedicated to Anki some people have made massive frequency sorted decks of like 40k words and just done them at 500 new a day for a few months and made massive progress in a short time. This is worth trying I think if you are dedicated enough, but you could also just read instead. As long as you immerse enough it doesn't really matter what you do.
+
 ### Settings
 
 My settings are mostly normal, but I will go over the few unique ones.
 
-I set new cards to 9999 per day and either:
+I set new cards to 9999 per day.
 
-a) learn all new cards I mine at the end of a given day
-b) learn new cards as I immerse (see article on [Wikipedia](Wikipedia.md))
-c) set a temporary limit on new cards if I am too tired to do them all
+My learning steps are set to 1m 10m for new and 10m for lapses. I'm not sure if this is optimal for retention but it makes Anki very fast and I still almost always get between 85% and 95% true retention. My FSRS is set to 85%.
 
-IMO this is a good approach because you learn words with the context fresh in your head, and while you are still immersing in the relevant content (e.g. you don't need to wait a month to see a card you mined). If you are a beginner, this may be too much, but you can give it a try if you want.
+I also have leeches set to tag for no particular reason.
 
-My learning steps are set to 1m 10m for new and 10m for lapses. I'm not sure if this is optimal for retention but it makes Anki very fast and I still almost always get between 85% and 95% true retention.
-
-I also have leeches set to suspend for no particular reason.
-
-You can copy my exact settings here:
+You can copy my exact settings here, though they may be outdated:
 [Addons](Addons.md) ・ [Settings](Settings.md)
-
-### Mining 
-
-Assuming that you are immersing for several hours per day, with some portion of that being reading, I think that you should only mine words with:
-
-a) a kanji you have never seen
-b) a new reading
-c) words that you specifically want to remember
-
-Words with characters and readings you already know are fairly easy to pick up via immersion. There may be benefits to mining words more generously, but I cannot speak to them given my limited experience.
-
-Attaching images manually to some words may be beneficial.
-
-Making a mining deck before you are finished [Kaishi](https://github.com/donkuri/Kaishi) is probably just a waste of time.
-
-### Reviewing
-
-I grade mostly based on reading, but also factor in (rough) meaning and pitch. Anki is probably not the best tool for learning meanings anyways, so I would not focus on them as much. Your energy is better used immersing more.
-
-Pitch is basically part of the reading, and while I wouldn't do Anki *for* pitch it seems silly not to correct yourself while a specific word is still fresh. I only ignore pitch when I'm tired and just want to finish reviews quickly.
-
-Streaks may me motivating for some learners, but there is no real benefit to adhering to them. You should try to do Anki as many days as you can. Taking breaks is fine. You can temporarily stop doing new cards if you do not have the energy. You also do not have to do all of your reviews; its completely fine to do half of them and then give up.
-
-While doing new cards there also may be specific words that stick out as being harder to learn than others. You can literally just bury these and learn them another day if you want. 
 
 ### Premade Decks
 
