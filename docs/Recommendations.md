@@ -1,4 +1,4 @@
-### Sites for finding Yuri
+### sites for finding yuri
 
 - [LilyDB](https://lilydb.app/ja/info) exclusively Yuri and insanely well made, has content from several languages, tags, etc.
 - [VNDB](https://vndb.org/g1986?f=&m=0&s=24w)
@@ -9,9 +9,9 @@
 - [Yurizukan](https://www.yurizukan.com/)
 - [ASMR.one](https://asmr.one/works?keyword=%24tag%3ALesbian%24)
 
-### Listening Recommendations
+### listening recommendations
 
-Listening content for Yuri is mostly limited to anime and a few j-drama. For beginners, most anime should be fine. I recommend:
+listening content for yuri is mostly limited to anime and a few j-drama. for beginners, most anime should be fine. i recommend:
 
 - [ユリ熊嵐](https://anilist.co/anime/20827/)
 - [フリップフラッパーズ](https://anilist.co/anime/21714/)
@@ -24,7 +24,7 @@ Listening content for Yuri is mostly limited to anime and a few j-drama. For beg
 - [わたしが恋人になれるわけないじゃん、ムリムリ!](https://anilist.co/anime/184591/-/)
 - [私を喰べたい、ひとでなし](https://anilist.co/anime/183385/)
  
-Slightly harder options are: 
+slightly harder options are: 
 
 - [マイ・ブロークン・マリコ](https://mydramalist.com/719435-my-broken-mariko) vaguely yuri drama but i really liked it so added anyways
 - [転生王女と天才令嬢の魔法革命](https://anilist.co/anime/153629/)
@@ -32,13 +32,13 @@ Slightly harder options are:
 - [マリア様がみてる](https://anilist.co/anime/158/)
 - [ストロベリー・パニック](https://anilist.co/anime/855/)
 
-You can also find plenty of Yuri ASMR on [asmr.one](https://asmr.one/works?keyword=%24tag%3ALesbian%24) as well as a handful of audiobooks, including 安達としまむら.
+you can also find plenty of yuri asmr (mostly porn btw) on [asmr.one](https://asmr.one/works?keyword=%24tag%3ALesbian%24). there are also a handful of audiobooks that exist somewhere, including 安達としまむら.
 
-### Reading Recommendations
+### reading recommendations
 
-The general pipeline for reading will be light novels/visual novels and then normal novels. Basically all Yuri light novels and visual novels are very beginner friendly, and normal novels aren't significantly harder. There are thousands of options here so I will try to list my favorites as well as popular/significant ones.
+the general pipeline for reading will be light novels/visual novels and then normal novels. basically all yuri light novels and visual novels are piss easy slice of life slop, and normal novels aren't significantly harder. there are thousands of options here so I will try to list my favorites as well as popular/significant ones. you can also read manga but its not very good immersion imo. worth it for the yuri though.
 
-For beginners:
+for beginners:
 
 - [週に一度クラスメイトを買う話](https://bookmeter.com/books/20580019) ln, perfect beginner novel
 - [女同士とかありえないでしょ](https://bookmeter.com/books/14915752) ln
@@ -62,7 +62,7 @@ For beginners:
 - [あくまであまい私の彼女](https://anilist.co/manga/176854/) manga, really cute vampire (?) yuri
 - [繭、纏う](https://anilist.co/manga/108228/) manga
 
-Slightly harder:
+slightly harder:
 
 - [私の推しは悪役令嬢](https://lilydb.app/ja/info/3441fb98-658c-4e1b-9fe8-7bcb136c1774) ln, fantasy
 - [転生王女と天才令嬢の魔法革命](https://lilydb.app/ja/info/e57dd897-5e55-4c56-98dc-f38c5f35d022) ln, fantasy
@@ -73,9 +73,8 @@ Slightly harder:
 - [ユリ熊嵐](https://bookmeter.com/books/9213679) ln, another favorite
 - [エヴァーメイデン](https://vndb.org/v31427) vn, very unique art and by an author I really like
 
-Hard: 
+hard: 
 - [花物語](https://bookmeter.com/books/529797) short stories, one of the progenitors to Yuri as a genre 
 - [屋根裏の二処女](https://bookmeter.com/books/424639) novel, by the same author, argued to be the first actual Yuri
 - [乙女の港](https://bookmeter.com/books/4269513) novel, another early Yuri by a famous author
 
-Manga are annoying for language learning in my opinion, and are also rather annoying to find in Japanese. Most of them should be pretty easy though, and there are a LOT of really good works to read. Once I read more of them I will add a manga recommendation section.
